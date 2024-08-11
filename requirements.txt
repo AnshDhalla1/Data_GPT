@@ -1,0 +1,16 @@
+pandas
+numpy
+langchain
+transformers
+streamlit
+flask
+openai
+# torch==1.9.0+cu121
+# torchvision==0.10.0+cu121
+# torchaudio==0.9.0
+python-dotenv
+rapidocr-onnxruntime
+faiss-cpu
+sentence-transformers
+langchain-openai
+langchain-huggingface
