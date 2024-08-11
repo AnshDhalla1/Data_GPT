@@ -8,6 +8,7 @@ Data_GPT is a chatbot and analytics dashboard designed to interact with your CSV
 2. Seamless Data Integration: Supports querying from CSV and Excel files.
 3. LangChain and pandasai Integration: Leverages LangChain for natural language processing and pandasai for data manipulation.
 4. Customizable Responses: Tailored responses based on specific user queries with a focus on financial analytics.
+<img width="1440" alt="Screenshot 2024-08-11 at 10 47 50 AM" src="https://github.com/user-attachments/assets/baa2fe1c-18dd-4c9a-b900-81c958c42047">
 
 
 ## Installation
@@ -41,6 +42,8 @@ streamlit run app.py
 1. **app.py:** The main Streamlit application file that handles the user interface and interaction with the chatbot.
 2. **chatLLM.py:** Contains the logic for interacting with OpenAI's GPT-3.5 model, including loading the question-answering chain and generating responses.
 3. **knowledge.py:** Handles the loading and processing of data, including the extraction of text chunks and building the FAISS knowledge base.
+
+<img width="802" alt="Screenshot 2024-08-11 at 10 48 14 AM" src="https://github.com/user-attachments/assets/6513ecf9-c77e-43b6-92ed-3623f577fb7a">
 
 
 ## License
